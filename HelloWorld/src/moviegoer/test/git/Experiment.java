@@ -15,6 +15,6 @@ public class Experiment{
 	}
 	
 	public static void printString(String s){
-		System.out.println(s);
+		System.out.println(s+"!");
 	}
 }
