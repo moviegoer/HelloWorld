@@ -13,4 +13,8 @@ public class Experiment{
 	public static void printDouble(double d){
 		System.out.println(d);
 	}
+	
+	public static void printString(String s){
+		System.out.println(s);
+	}
 }
