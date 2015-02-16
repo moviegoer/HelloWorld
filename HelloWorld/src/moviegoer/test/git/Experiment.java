@@ -10,4 +10,7 @@ public class Experiment{
 		System.out.println(k);
 	}
 	
+	public static void printDouble(double d){
+		System.out.println(d);
+	}
 }
