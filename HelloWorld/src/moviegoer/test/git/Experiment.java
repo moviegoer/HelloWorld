@@ -6,4 +6,8 @@ public class Experiment{
 		System.out.println(k);
 	}
 	
+	public static void printFloat(float k){
+		System.out.println(k);
+	}
+	
 }
